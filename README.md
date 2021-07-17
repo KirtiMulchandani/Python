@@ -1,1 +1,1 @@
-Contact Book is command-line project in python where we can save contact details, including name, address, phone number, and even email address and can be able to upadate contact information, delete contacts, and list saved contacts.
+Contact Book is command-line project in python where we can save contact details, including name, address, phone number, and even email address and can be able to update contact information, delete contacts, and list saved contacts.
